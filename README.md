@@ -12,3 +12,7 @@ two coins, and will print in "memo1" the values of each coin.
 
 OOP Example 2.rar: is same like OOP Example 1.rar but with more developing in the way of 
 making same tasks of OOP Example 1.rar to be more ideal.
+
+Example 3.rar: is just small simulation for representing the action of shuffling some cards and picking 
+the most above card. The inappropriate feature here is the usage of enumerated data type as a data not as
+a data type.
