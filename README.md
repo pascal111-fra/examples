@@ -9,3 +9,6 @@ Some descriptions for our examples:
 OOP Example 1.rar: is a small program showing building small class(object) for "coins!", and coin object has 
 the ability to generate random value presenting which side the coin shows (head/tail). The program will imagine
 two coins, and will print in "memo1" the values of each coin.
+
+OOP Example 2.rar: is same like OOP Example 1.rar but with more developing in the way of 
+making same tasks of OOP Example 1.rar to be more ideal.
