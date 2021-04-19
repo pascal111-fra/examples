@@ -20,3 +20,5 @@ a data type.
 Example 4.rar: is simulating by code the drinking action and pouring. We use veriables and increasing and 
 decreasing their values and also by using "delaying" to simulate these actions, drinking and pouring. You
 need "TPlaySound" component to run this project https://wiki.freepascal.org/TPlaySound
+
+Example 5.rar: is same like Example 4.rar but with some more data processing.
