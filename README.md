@@ -16,3 +16,7 @@ making same tasks of OOP Example 1.rar to be more ideal.
 Example 3.rar: is just small simulation for representing the action of shuffling some cards and picking 
 the most above card. The inappropriate feature here is the usage of enumerated data type as a data not as
 a data type.
+
+Example 4.rar: is simulating by code the drinking action and pouring. We use veriables and increasing and 
+decreasing their values and also by using "delaying" to simulate these actions, drinking and pouring. You
+need "TPlaySound" component to run this project https://wiki.freepascal.org/TPlaySound
