@@ -22,3 +22,6 @@ decreasing their values and also by using "delaying" to simulate these actions, 
 need "TPlaySound" component to run this project https://wiki.freepascal.org/TPlaySound
 
 Example 5.rar: is same like Example 4.rar but with some more data processing.
+
+Example 6.rar: is a simulating of generating playing cards with patterns and values by using advanced records instead of objects,
+and making a comparison between two generated cards.
